@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 40px>, I'm Dilshan /h1>
+<h1 align="center">Hi <img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 40px>, I'm Dilshan</h1>
 <h3 align="center">Passionate Developer | Tech Explorer</h3>
 
 <p align="center">
